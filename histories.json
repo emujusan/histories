@@ -1,0 +1,24 @@
+{
+  "title": "World History: Year 1 to 2026",
+  "description": "Important incidents and events organized by century",
+  "centuries": [
+    {
+      "period": "1-100 AD",
+      "events": [
+        {"id": 1, "title": "Birth of Christianity", "description": "Jesus of Nazareth is crucified in Jerusalem (~30-33 AD), leading to the foundation of Christianity", "year": "30-33", "source": "Tacitus, Annals 15.44; Josephus, Antiquities 18.3.3"},
+        {"id": 2, "title": "Eruption of Mount Vesuvius", "description": "Destroys Pompeii and Herculaneum, killing thousands. Preserved under ash.", "year": "79", "source": "Pliny the Younger, Letters 6.16, 6.20"},
+        {"id": 3, "title": "Roman Empire reaches greatest extent under Trajan", "description": "Trajan becomes Emperor, initiating maximum territorial expansion.", "year": "98", "source": "Cassius Dio, Roman History 68"},
+        {"id": 4, "title": "Spread of Buddhism to China", "description": "Buddhist missionaries arrive in China via the Silk Road during Han Dynasty.", "year": "~65", "source": "Hou Hanshu (Book of the Later Han)"},
+        {"id": 5, "title": "Invention of paper in China", "description": "Cai Lun refines papermaking using mulberry bark, hemp, and rags.", "year": "~105", "source": "Hou Hanshu (Book of the Later Han)"}
+      ]
+    },
+    {
+      "period": "101-200 AD",
+      "events": [
+        {"id": 1, "title": "Five Good Emperors of Rome", "description": "Nerva, Trajan, Hadrian, Antoninus Pius, and Marcus Aurelius rule in succession, considered Rome's golden age.", "year": "96-180", "source": "Edward Gibbon, Decline and Fall of the Roman Empire; Cassius Dio"},
+        {"id": 2, "title": "Bar Kokhba Revolt", "description": "Jewish rebellion in Judea crushed by Hadrian. Mass displacement of Jewish population, Judea renamed Syria Palaestina.", "year": "132-136", "source": "Cassius Dio, Roman History 69.12-14"},
+        {"id": 3, "title": "Hadrian's Wall constructed", "description": "Defensive wall across northern Britain, marking the Roman Empire's northwest frontier. 73 miles long.", "year": "~122", "source": "Historia Augusta, Life of Hadrian"},
+        {"id": 4, "title": "Spread of Christianity throughout Roman Empire", "description": "By 200 AD, Christian communities exist in every major Roman city.", "year": "100-200", "source": "Tertullian, Apology; Eusebius, Ecclesiastical History"},
+        {"id": 5, "title": "Han Dynasty begins collapse", "description": "Yellow Turban Rebellion weakens the Han Dynasty, leading to the Three Kingdoms period.", "year": "184", "source": "Records of the Three Kingdoms (Sanguozhi)"}
+      ]
+    },
