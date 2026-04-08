@@ -210,3 +210,39 @@ Each century covers the most significant incidents with source references.
 
 5. **Dutch East India Company founded (1602)** — World's first multinational corporation and first to issue stock. Begins modern capitalism. Source: VOC archives, Amsterdam
 
+## 1701-1800 AD
+
+1. **Industrial Revolution begins (~1760)** — Steam engine, mechanized textile production, and factory system transform Britain and then the world. Greatest economic transformation in history. Source: Arnold Toynbee, *Lectures on the Industrial Revolution*; Robert Allen, *The British Industrial Revolution in Global Perspective*
+
+2. **American Revolution and Independence (1776)** — 13 colonies declare independence from Britain. Creates the first modern democratic republic. Source: Declaration of Independence (1776); Thomas Paine, *Common Sense*
+
+3. **French Revolution begins (1789)** — Storming of the Bastille. Overthrows monarchy, establishes republic, leads to Napoleon. "Liberté, égalité, fraternité." Source: Thomas Carlyle, *The French Revolution*; Declaration of the Rights of Man (1789)
+
+4. **Captain Cook's voyages (1768-1779)** — Maps the Pacific, encounters Australia, New Zealand, Hawaii. Opens the Pacific to European exploration. Source: James Cook, *Voyages*; Joseph Banks journals
+
+5. **Adam Smith publishes The Wealth of Nations (1776)** — Foundation of modern economics, introduces free market theory. Source: Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations*
+
+## 1801-1900 AD
+
+1. **Napoleon crowned Emperor (1804)** — Napoleon Bonaparte conquers most of Europe before defeat at Waterloo (1815). Napoleonic Code influences legal systems worldwide. Source: Alexandre Dumas; Andrew Roberts, *Napoleon: A Life*
+
+2. **American Civil War (1861-1865)** — Deadliest American war. Ends slavery, preserves the Union, transforms the United States. Source: Shelby Foote, *The Civil War*; Frederick Douglass, *Narrative of the Life*
+
+3. **Darwin publishes On the Origin of Species (1859)** — Theory of evolution by natural selection. Revolutionizes biology and humanity's understanding of itself. Source: Charles Darwin, *On the Origin of Species*
+
+4. **Electricity and telecommunications revolution** — Faraday (electromagnetism, 1831), Edison (light bulb, 1879), Bell (telephone, 1876). Second Industrial Revolution. Source: Various patent records
+
+5. **Scramble for Africa (1881-1914)** — European powers colonize nearly the entire African continent. Devastating consequences that last to this day. Source: Thomas Pakenham, *The Scramble for Africa*
+
+## 1901-2000 AD
+
+1. **World War I (1914-1918)** — 20 million dead. Destroys four empires (Ottoman, Austro-Hungarian, Russian, German). Reshapes the world map. Source: Barbara Tuchman, *The Guns of August*; Erich Maria Remarque, *All Quiet on the Western Front*
+
+2. **World War II (1939-1945)** — 70-85 million dead. Holocaust kills 6 million Jews. Atomic bombs dropped on Hiroshima and Nagasaki. Deadliest conflict in history. Source: Antony Beevor, *The Second World War*; Winston Churchill, *The Second World War*
+
+3. **Moon landing (1969)** — Apollo 11. Neil Armstrong becomes first human to walk on the Moon. "One small step for man, one giant leap for mankind." Source: NASA Apollo 11 archives
+
+4. **Fall of the Berlin Wall (1989)** — Cold War ends. Soviet Union dissolves (1991). Communism collapses across Eastern Europe. Source: Various contemporary news reports
+
+5. **Invention of the Internet (1969-1991)** — ARPANET (1969) to World Wide Web (1991, Tim Berners-Lee). Transforms communication, commerce, and society. Source: Tim Berners-Lee, *Weaving the Web*; Vinton Cerf and Bob Kahn, TCP/IP papers
+
