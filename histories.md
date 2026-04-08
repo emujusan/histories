@@ -30,3 +30,15 @@ Each century covers the most significant incidents with source references.
 
 5. **Han Dynasty begins to collapse (184 AD)** — Yellow Turban Rebellion weakens the Han Dynasty, leading to the Three Kingdoms period. Source: *Records of the Three Kingdoms* (Sanguozhi)
 
+## 201-300 AD
+
+1. **Crisis of the Third Century (235-284 AD)** — Roman Empire nearly collapses from civil war, plague, economic crisis, and barbarian invasions. Over 20 emperors in 50 years. Source: Cassius Dio; *Historia Augusta*
+
+2. **Three Kingdoms Period in China (220-280 AD)** — China split into Wei, Shu, and Wu after the fall of the Han Dynasty. Ends with Jin Dynasty reunification. Source: *Records of the Three Kingdoms* (Sanguozhi) by Chen Shou
+
+3. **Goths invade Roman Empire (251 AD)** — Emperor Decius killed at the Battle of Abritus, first Roman Emperor to die in battle against barbarians. Source: Jordanes, *Getica*
+
+4. **Diocletian becomes Emperor (284 AD)** — Establishes the Tetrarchy (rule by four emperors), restoring stability. Persecutes Christians in the last great imperial persecution. Source: Lactantius, *De Mortibus Persecutorum*
+
+5. **Maya Classic Period begins (~250 AD)** — Major Maya city-states rise in Mesoamerica with advanced writing, astronomy, and architecture. Source: National Geographic; Simon Martin & Nikolai Grube, *Chronicle of the Maya Kings and Queens*
+
