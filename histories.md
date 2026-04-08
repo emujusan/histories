@@ -258,3 +258,7 @@ Each century covers the most significant incidents with source references.
 
 5. **Russia invades Ukraine (2022)** — Largest military conflict in Europe since WWII. Reshapes global alliances, energy markets, and geopolitics. Source: Various international news agencies; UN resolutions
 
+6. **Israel-Palestine conflict escalates — Gaza genocide (2023-2026)** — Following October 7, 2023 Hamas attack, Israel launches massive military campaign in Gaza. Tens of thousands of Palestinian civilians killed. Widely described as genocide by human rights organizations, UN officials, and the ICJ investigates. Source: UN Human Rights Council reports; ICJ provisional measures order (2024); Amnesty International; Human Rights Watch
+
+7. **Israel strikes Iran (2024-2026)** — Israel launches direct military strikes against Iranian targets, escalating regional conflict across the Middle East. Marks a major escalation in the Israel-Iran proxy conflict into direct confrontation. Source: Various international news agencies; Reuters; AP
+
