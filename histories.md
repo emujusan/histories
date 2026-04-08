@@ -246,3 +246,15 @@ Each century covers the most significant incidents with source references.
 
 5. **Invention of the Internet (1969-1991)** — ARPANET (1969) to World Wide Web (1991, Tim Berners-Lee). Transforms communication, commerce, and society. Source: Tim Berners-Lee, *Weaving the Web*; Vinton Cerf and Bob Kahn, TCP/IP papers
 
+## 2001-2026 AD
+
+1. **September 11 attacks (2001)** — Terrorist attacks on the World Trade Center and Pentagon kill nearly 3,000. Launches the War on Terror, reshaping global politics for decades. Source: 9/11 Commission Report (2004)
+
+2. **iPhone released (2007)** — Apple's iPhone launches the smartphone era. By 2026, smartphones are used by 5+ billion people. Transforms communication, commerce, media, and daily life. Source: Walter Isaacson, *Steve Jobs*
+
+3. **COVID-19 pandemic (2019-2023)** — SARS-CoV-2 kills an estimated 20+ million worldwide. Lockdowns, remote work, mRNA vaccines. Deepest global disruption since WWII. Source: WHO pandemic reports; Johns Hopkins COVID dashboard
+
+4. **Rise of AI and large language models (2022-2026)** — ChatGPT launches (Nov 2022), followed by GPT-4, Claude, Gemini, and others. AI transforms work, education, and creative industries. Source: OpenAI, Anthropic, Google publications
+
+5. **Russia invades Ukraine (2022)** — Largest military conflict in Europe since WWII. Reshapes global alliances, energy markets, and geopolitics. Source: Various international news agencies; UN resolutions
+
