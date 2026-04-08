@@ -61,6 +61,46 @@
         {"id": 4, "title": "Hagia Sophia constructed", "description": "World's largest cathedral for nearly 1000 years. Architectural marvel.", "year": "537", "source": "Procopius, Buildings 1.1"},
         {"id": 5, "title": "Sui Dynasty reunifies China", "description": "Reunites northern and southern China after centuries of division.", "year": "581", "source": "Book of Sui (Suishu)"}
       ]
+    },
+    {
+      "period": "601-700 AD",
+      "events": [
+        {"id": 1, "title": "Rise of Islam and Muslim conquests", "description": "Muhammad flees Mecca to Medina (Hijra, 622). Within a century, Islamic empire stretches from Spain to India.", "year": "622-750", "source": "Ibn Ishaq, Sirat Rasul Allah; Al-Tabari, Tarikh"},
+        {"id": 2, "title": "Tang Dynasty begins in China", "description": "China's golden age of culture, poetry, trade. Capital Chang'an becomes world's largest city.", "year": "618", "source": "Old Book of Tang (Jiu Tangshu)"},
+        {"id": 3, "title": "Battle of Tours", "description": "Charles Martel defeats Umayyad Caliphate, halting Muslim expansion into Western Europe.", "year": "732", "source": "Continuations of Fredegar"},
+        {"id": 4, "title": "Viking Age begins", "description": "Raid on Lindisfarne monastery. Norse expansion reshapes Europe.", "year": "~793", "source": "Anglo-Saxon Chronicle; Alcuin of York letters"},
+        {"id": 5, "title": "Feudalism emerges in Europe", "description": "After Rome's fall, feudal system becomes dominant political and economic structure.", "year": "600-700", "source": "Marc Bloch, Feudal Society"}
+      ]
+    },
+    {
+      "period": "701-800 AD",
+      "events": [
+        {"id": 1, "title": "Battle of Talas", "description": "Abbasid Caliphate defeats Tang China. Papermaking transfers to Islamic world.", "year": "751", "source": "Al-Masudi, Muruj adh-dhahab"},
+        {"id": 2, "title": "Charlemagne crowned Holy Roman Emperor", "description": "Unites much of Western Europe for first time since Rome.", "year": "800", "source": "Einhard, Vita Karoli Magni"},
+        {"id": 3, "title": "Islamic Golden Age begins", "description": "Baghdad becomes center of science, philosophy, medicine. House of Wisdom established.", "year": "750", "source": "Al-Khatib al-Baghdadi, Tarikh Baghdad"},
+        {"id": 4, "title": "Nara Period in Japan", "description": "First permanent capital. Buddhism becomes state religion.", "year": "710-794", "source": "Nihon Shoki; Shoku Nihongi"},
+        {"id": 5, "title": "Borobudur temple constructed", "description": "World's largest Buddhist temple in Java.", "year": "~800", "source": "UNESCO World Heritage documentation"}
+      ]
+    },
+    {
+      "period": "801-900 AD",
+      "events": [
+        {"id": 1, "title": "Vikings discover Iceland", "description": "Norse explorers settle Iceland, later reaching Greenland and North America.", "year": "~860", "source": "Landnamabok; Ibn Fadlan"},
+        {"id": 2, "title": "East-West Christian Schism begins", "description": "Growing divide between Roman Catholic and Eastern Orthodox churches.", "year": "~869", "source": "Photios I, Mystagogy of the Holy Spirit"},
+        {"id": 3, "title": "An Lushan Rebellion", "description": "Devastating Tang civil war, 13-36 million deaths. Tang never fully recovers.", "year": "755-763", "source": "Old Book of Tang (Jiu Tangshu)"},
+        {"id": 4, "title": "Gunpowder invented in China", "description": "Chinese alchemists discover gunpowder. Transforms warfare globally.", "year": "~850", "source": "Wujing Zongyao (1044)"},
+        {"id": 5, "title": "Foundation of Kievan Rus", "description": "Oleg of Novgorod unites Eastern Slavic tribes, precursor to Russia.", "year": "~882", "source": "Primary Chronicle"}
+      ]
+    },
+    {
+      "period": "901-1000 AD",
+      "events": [
+        {"id": 1, "title": "Song Dynasty begins in China", "description": "Extraordinary innovation: movable type, compass, gunpowder weapons, paper money.", "year": "960", "source": "History of Song (Songshi)"},
+        {"id": 2, "title": "Leif Erikson reaches North America", "description": "First European in the Americas, 500 years before Columbus.", "year": "~1000", "source": "Saga of the Greenlanders; Saga of Erik the Red"},
+        {"id": 3, "title": "Holy Roman Empire established", "description": "Otto I crowned Emperor. Lasts until 1806.", "year": "962", "source": "Thietmar of Merseburg, Chronicon"},
+        {"id": 4, "title": "Great Zimbabwe constructed", "description": "Capital of Kingdom of Zimbabwe, center of gold and ivory trade.", "year": "~1000", "source": "Peter S. Garlake, Great Zimbabwe"},
+        {"id": 5, "title": "Islamic Golden Age at peak", "description": "Alhazen (optics), Avicenna (medicine), Al-Biruni (astronomy).", "year": "900-1000", "source": "Ibn al-Haytham, Book of Optics; Ibn Sina, Canon of Medicine"}
+      ]
     }
   ]
 }
