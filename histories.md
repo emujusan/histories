@@ -78,3 +78,51 @@ Each century covers the most significant incidents with source references.
 
 5. **Sui Dynasty reunifies China (581 AD)** — After centuries of division, the Sui Dynasty reunites northern and southern China. Source: *Book of Sui* (Suishu)
 
+## 601-700 AD
+
+1. **Rise of Islam and Muslim conquests (622-750 AD)** — Prophet Muhammad flees Mecca to Medina (Hijra, 622 AD, start of Islamic calendar). Within a century, Islamic empire stretches from Spain to India. Source: Ibn Ishaq, *Sirat Rasul Allah*; Al-Tabari, *Tarikh al-Rusul wa al-Muluk*
+
+2. **Tang Dynasty begins in China (618 AD)** — Considered China's golden age of culture, poetry, trade, and innovation. Capital Chang'an becomes world's largest city. Source: *Old Book of Tang* (Jiu Tangshu)
+
+3. **Battle of Tours (732 AD)** — Charles Martel defeats the Umayyad Caliphate, halting Muslim expansion into Western Europe. Source: *Continuations of Fredegar*; Arabian sources
+
+4. **Viking Age begins (~793 AD)** — Raid on Lindisfarne monastery marks the start of the Viking Age. Norse expansion reshapes Europe. Source: *Anglo-Saxon Chronicle*; Alcuin of York's letters
+
+5. **Introduction of feudalism in Europe** — After the fall of centralized Roman authority, the feudal system emerges as the dominant political and economic structure. Source: Marc Bloch, *Feudal Society*
+
+## 701-800 AD
+
+1. **Battle of Talas (751 AD)** — Abbasid Caliphate defeats Tang China in Central Asia. Papermaking technology transfers to the Islamic world and eventually Europe. Source: Al-Masudi, *Muruj adh-dhahab*
+
+2. **Charlemagne crowned Holy Roman Emperor (800 AD)** — Pope Leo III crowns Charlemagne on Christmas Day, uniting much of Western Europe for the first time since Rome. Source: Einhard, *Vita Karoli Magni*
+
+3. **Abbasid Caliphate and Islamic Golden Age begins (750 AD)** — Baghdad becomes center of science, philosophy, and medicine. House of Wisdom established. Source: Al-Khatib al-Baghdadi, *Tarikh Baghdad*
+
+4. **Nara Period in Japan (710-794 AD)** — Japan's first permanent capital established. Buddhism becomes state religion. Source: *Nihon Shoki*; *Shoku Nihongi*
+
+5. **Borobudur temple constructed in Java (~800 AD)** — World's largest Buddhist temple, reflecting maritime Southeast Asia's cultural sophistication. Source: UNESCO World Heritage documentation
+
+## 801-900 AD
+
+1. **Vikings discover Iceland (~860 AD)** — Norse explorers settle Iceland, later reaching Greenland and North America. Source: *Landnámabók* (Book of Settlement); Ibn Fadlan's account
+
+2. **Great Schism begins between East and West Christianity (~869 AD)** — Growing theological and political divide between Roman Catholic and Eastern Orthodox churches. Source: Photios I, *Mystagogy of the Holy Spirit*
+
+3. **Tang Dynasty declines — An Lushan Rebellion (755-763 AD)** — Devastating civil war kills an estimated 13-36 million. Tang Dynasty never fully recovers. Source: *Old Book of Tang* (Jiu Tangshu)
+
+4. **Invention of gunpowder in China (~850 AD)** — Chinese alchemists discover gunpowder while searching for an elixir of immortality. Transforms warfare globally. Source: *Wujing Zongyao* (1044)
+
+5. **Foundation of Kievan Rus (~882 AD)** — Oleg of Novgorod unites Eastern Slavic tribes, establishing the precursor to Russia. Source: *Primary Chronicle* (Tale of Bygone Years)
+
+## 901-1000 AD
+
+1. **Song Dynasty begins in China (960 AD)** — Period of extraordinary innovation: movable type printing, compass, gunpowder weapons, paper money. GDP per capita unmatched until 19th century. Source: *History of Song* (Songshi)
+
+2. **Viking Leif Erikson reaches North America (~1000 AD)** — Norse settlement at L'Anse aux Meadows, Newfoundland. First European to reach the Americas, 500 years before Columbus. Source: *Saga of the Greenlanders*; *Saga of Erik the Red*
+
+3. **Holy Roman Empire established in Europe (962 AD)** — Otto I crowned Emperor, creating a political entity that lasts until 1806. Source: Thietmar of Merseburg, *Chronicon*
+
+4. **Great Zimbabwe begins construction (~1000 AD)** — Capital of the Kingdom of Zimbabwe, center of gold and ivory trade. Source: Peter S. Garlake, *Great Zimbabwe*
+
+5. **Islamic Golden Age at its peak** — Scholars like Alhazen (optics), Avicenna (medicine), and Al-Biruni (astronomy) make groundbreaking discoveries. Source: Ibn al-Haytham, *Book of Optics*; Ibn Sina, *The Canon of Medicine*
+
