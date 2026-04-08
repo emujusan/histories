@@ -126,3 +126,51 @@ Each century covers the most significant incidents with source references.
 
 5. **Islamic Golden Age at its peak** — Scholars like Alhazen (optics), Avicenna (medicine), and Al-Biruni (astronomy) make groundbreaking discoveries. Source: Ibn al-Haytham, *Book of Optics*; Ibn Sina, *The Canon of Medicine*
 
+## 1001-1100 AD
+
+1. **Great Schism of 1054** — Eastern Orthodox and Roman Catholic churches formally split, dividing Christianity permanently. Source: Michael Cerularius correspondence; Humbert of Silva Candida's bull of excommunication
+
+2. **Norman Conquest of England (1066)** — William the Conqueror defeats King Harold at the Battle of Hastings. Reshapes English language, culture, and governance. Source: *Anglo-Saxon Chronicle*; Bayeux Tapestry
+
+3. **First Crusade (1096-1099)** — European Christians capture Jerusalem, establishing Crusader States in the Middle East. Source: Fulcher of Chartres, *Chronicle*; Anna Komnene, *Alexiad*
+
+4. **Seljuk Turks defeat Byzantines at Manzikert (1071)** — Opens Anatolia to Turkish settlement, leads to Crusades. Source: Michael Attaleiates, *History*; John Skylitzes
+
+5. **Movable type printing invented in China (~1040)** — Bi Sheng creates the world's first movable type printing system, centuries before Gutenberg. Source: Shen Kuo, *Dream Pool Essays* (Mengxi Bitan)
+
+## 1101-1200 AD
+
+1. **Genghis Khan born (~1162)** — Founder of the Mongol Empire, the largest contiguous land empire in history. Source: *The Secret History of the Mongols*
+
+2. **Third Crusade (1189-1192)** — Richard the Lionheart, Saladin, and Frederick Barbarossa clash over Jerusalem. Saladin retains the city. Source: Ibn al-Athir, *al-Kamil fi al-Tarikh*; Roger of Hoveden, *Chronica*
+
+3. **Song Dynasty innovation peak** — Compass, gunpowder weapons, paper money, canal lock gates. China leads the world in technology. Source: *History of Song* (Songshi); Joseph Needham, *Science and Civilisation in China*
+
+4. **Angkor Wat constructed (~1150)** — Largest religious monument ever built, in present-day Cambodia. Source: Zhou Daguan, *Customs of Cambodia*
+
+5. **Universities of Bologna (1088) and Oxford (1096) founded** — Birth of the European university system. Source: University archives; Rashdall, *The Universities of Europe in the Middle Ages*
+
+## 1201-1300 AD
+
+1. **Mongol Empire expands rapidly (1206-1294)** — Genghis Khan unites Mongol tribes (1206). By 1294, the empire stretches from Korea to Hungary, the largest contiguous empire ever. Source: *The Secret History of the Mongols*; Rashid al-Din, *Jami al-Tawarikh*
+
+2. **Magna Carta signed (1215)** — King John of England forced to sign, limiting royal power. Foundation of constitutional law and individual rights. Source: British Library, original Magna Carta manuscript
+
+3. **Mongols sack Baghdad (1258)** — Destroy the Abbasid Caliphate. End of the Islamic Golden Age. Millions killed. Source: *The Secret History of the Mongols*; Ibn al-Athir
+
+4. **Marco Polo travels to China (1271-1295)** — Venetian merchant documents his journey along the Silk Road, introducing Europe to Asian civilization. Source: Marco Polo, *The Travels of Marco Polo* (Il Milione)
+
+5. **First handgun developed in China (~1288)** — Earliest known firearm, the Heilongjiang hand cannon. Source: Chinese military archaeology; Joseph Needham
+
+## 1301-1400 AD
+
+1. **The Black Death (1347-1353)** — Bubonic plague kills an estimated 75-200 million people, 30-60% of Europe's population. Most devastating pandemic in recorded history. Source: Giovanni Boccaccio, *The Decameron*; Ibn Khaldun, *Muqaddimah*
+
+2. **Hundred Years' War begins (1337)** — England and France fight for 116 years, transforming medieval warfare and European politics. Source: Jean Froissart, *Chronicles*
+
+3. **Ottoman Empire founded (~1299)** — Osman I establishes the Ottoman Beylik, which will become a 600-year empire. Source: Ashikpashazade, *Tevarih-i Al-i Osman*
+
+4. **Ming Dynasty founded in China (1368)** — Zhu Yuanzhang drives out the Mongols. Ming period sees construction of the Forbidden City and Zheng He's voyages. Source: *History of Ming* (Mingshi)
+
+5. **Rise of the Mali Empire — Mansa Musa's pilgrimage to Mecca (1324)** — Richest person in history distributes so much gold it crashes Egyptian economy for a decade. Source: Al-Umari, *Masalik al-Absar*; Ibn Khaldun
+
