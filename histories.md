@@ -174,3 +174,39 @@ Each century covers the most significant incidents with source references.
 
 5. **Rise of the Mali Empire — Mansa Musa's pilgrimage to Mecca (1324)** — Richest person in history distributes so much gold it crashes Egyptian economy for a decade. Source: Al-Umari, *Masalik al-Absar*; Ibn Khaldun
 
+## 1401-1500 AD
+
+1. **Fall of Constantinople (1453)** — Ottoman Sultan Mehmed II conquers Constantinople, ending the 1100-year Byzantine Empire. Marks the end of the Middle Ages. Source: Kritovoulos, *History of Mehmed the Conqueror*; George Sphrantzes, *Chronicle*
+
+2. **Gutenberg invents the printing press (~1440)** — Johannes Gutenberg creates the movable type printing press in Europe. Most important invention of the second millennium. Source: Johann Gutenberg's Gutenberg Bible (c. 1455); Blaise Agüera y Arcas research
+
+3. **Columbus reaches the Americas (1492)** — Christopher Columbus lands in the Bahamas, beginning European colonization of the Americas. Transforms world history. Source: Christopher Columbus, *Journal of the First Voyage*; Bartolomé de las Casas, *A Short Account of the Destruction of the Indies*
+
+4. **Vasco da Gama reaches India (1498)** — First European to sail to India via the Cape of Good Hope, opening direct European-Asian trade. Source: Vasco da Gama's log; Álvaro Velho, *Roteiro*
+
+5. **Leonardo da Vinci paints the Last Supper (1495-1498)** — Renaissance peaks. Art, science, and humanism transform European civilization. Source: Leonardo da Vinci's notebooks; Giorgio Vasari, *Lives of the Artists*
+
+## 1501-1600 AD
+
+1. **Protestant Reformation begins (1517)** — Martin Luther posts his 95 Theses, splitting Western Christianity and reshaping European politics, wars, and society. Source: Martin Luther, *95 Theses*; Philipp Melanchthon, *History of the Life and Acts of Luther*
+
+2. **Spanish conquest of the Aztec Empire (1521)** — Hernán Cortés destroys the Aztec Empire with ~500 men, aided by disease and indigenous allies. Source: Bernal Díaz del Castillo, *The True History of the Conquest of New Spain*
+
+3. **Spanish conquest of the Inca Empire (1533)** — Francisco Pizarro captures and executes Inca Emperor Atahualpa. Source: Pedro Cieza de León, *Chronicle of Peru*
+
+4. **Copernicus publishes heliocentric theory (1543)** — *De Revolutionibus Orbium Coelestium* proposes Earth orbits the Sun, challenging 1500 years of geocentric dogma. Source: Nicolaus Copernicus, *De Revolutionibus*
+
+5. **Shakespeare writes his major plays (~1590-1613)** — William Shakespeare produces Hamlet, Romeo and Juliet, Macbeth, fundamentally shaping English literature. Source: First Folio (1623)
+
+## 1601-1700 AD
+
+1. **Galileo confirms heliocentrism with telescope (1610)** — Observes Jupiter's moons, proving not everything orbits Earth. Catholic Church forces him to recant (1633). Source: Galileo Galilei, *Sidereus Nuncius* (Starry Messenger)
+
+2. **Thirty Years' War (1618-1648)** — Devastating religious war across Europe kills 4-8 million. Ends with the Peace of Westphalia, establishing modern state sovereignty. Source: Friedrich Schiller, *The Thirty Years' War*; Peace of Westphalia treaties
+
+3. **Newton publishes Principia Mathematica (1687)** — Isaac Newton's laws of motion and universal gravitation. Foundation of classical physics. Source: Isaac Newton, *Philosophiae Naturalis Principia Mathematica*
+
+4. **English Civil War and execution of Charles I (1649)** — King executed, brief republic under Cromwell. Establishes precedent that monarchs are not above law. Source: Parliamentary records; Clarendon, *History of the Rebellion*
+
+5. **Dutch East India Company founded (1602)** — World's first multinational corporation and first to issue stock. Begins modern capitalism. Source: VOC archives, Amsterdam
+
