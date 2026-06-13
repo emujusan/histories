@@ -101,6 +101,118 @@
         {"id": 4, "title": "Great Zimbabwe constructed", "description": "Capital of Kingdom of Zimbabwe, center of gold and ivory trade.", "year": "~1000", "source": "Peter S. Garlake, Great Zimbabwe"},
         {"id": 5, "title": "Islamic Golden Age at peak", "description": "Alhazen (optics), Avicenna (medicine), Al-Biruni (astronomy).", "year": "900-1000", "source": "Ibn al-Haytham, Book of Optics; Ibn Sina, Canon of Medicine"}
       ]
+    },
+    {
+      "period": "1001-1100 AD",
+      "events": [
+        {"id": 1, "title": "Great Schism of 1054", "description": "Eastern Orthodox and Roman Catholic churches formally split, dividing Christianity permanently.", "year": "1054", "source": "Michael Cerularius correspondence; Humbert of Silva Candida's bull of excommunication"},
+        {"id": 2, "title": "Norman Conquest of England", "description": "William the Conqueror defeats King Harold at Hastings. Reshapes English language, culture, governance.", "year": "1066", "source": "Anglo-Saxon Chronicle; Bayeux Tapestry"},
+        {"id": 3, "title": "First Crusade", "description": "European Christians capture Jerusalem, establishing Crusader States in the Middle East.", "year": "1096-1099", "source": "Fulcher of Chartres, Chronicle; Anna Komnene, Alexiad"},
+        {"id": 4, "title": "Seljuk Turks defeat Byzantines at Manzikert", "description": "Opens Anatolia to Turkish settlement, leads to Crusades.", "year": "1071", "source": "Michael Attaleiates, History; John Skylitzes"},
+        {"id": 5, "title": "Movable type printing in China", "description": "Bi Sheng creates world's first movable type printing system, centuries before Gutenberg.", "year": "~1040", "source": "Shen Kuo, Dream Pool Essays (Mengxi Bitan)"}
+      ]
+    },
+    {
+      "period": "1101-1200 AD",
+      "events": [
+        {"id": 1, "title": "Genghis Khan born", "description": "Founder of the Mongol Empire, the largest contiguous land empire in history.", "year": "~1162", "source": "The Secret History of the Mongols"},
+        {"id": 2, "title": "Third Crusade", "description": "Richard the Lionheart, Saladin, and Frederick Barbarossa clash over Jerusalem. Saladin retains the city.", "year": "1189-1192", "source": "Ibn al-Athir, al-Kamil fi al-Tarikh; Roger of Hoveden, Chronica"},
+        {"id": 3, "title": "Song Dynasty innovation peak", "description": "Compass, gunpowder weapons, paper money, canal lock gates. China leads the world in technology.", "year": "1100-1200", "source": "History of Song (Songshi); Joseph Needham, Science and Civilisation in China"},
+        {"id": 4, "title": "Angkor Wat constructed", "description": "Largest religious monument ever built, in present-day Cambodia.", "year": "~1150", "source": "Zhou Daguan, Customs of Cambodia"},
+        {"id": 5, "title": "Universities of Bologna and Oxford founded", "description": "Birth of the European university system.", "year": "1088-1096", "source": "University archives; Rashdall, The Universities of Europe in the Middle Ages"}
+      ]
+    },
+    {
+      "period": "1201-1300 AD",
+      "events": [
+        {"id": 1, "title": "Mongol Empire expands rapidly", "description": "Genghis Khan unites Mongol tribes (1206). Largest contiguous empire ever, from Korea to Hungary.", "year": "1206-1294", "source": "The Secret History of the Mongols; Rashid al-Din, Jami al-Tawarikh"},
+        {"id": 2, "title": "Magna Carta signed", "description": "King John forced to sign, limiting royal power. Foundation of constitutional law and individual rights.", "year": "1215", "source": "British Library, original Magna Carta manuscript"},
+        {"id": 3, "title": "Mongols sack Baghdad", "description": "Destroy the Abbasid Caliphate. End of the Islamic Golden Age. Millions killed.", "year": "1258", "source": "The Secret History of the Mongols; Ibn al-Athir"},
+        {"id": 4, "title": "Marco Polo travels to China", "description": "Venetian merchant documents Silk Road journey, introducing Europe to Asian civilization.", "year": "1271-1295", "source": "Marco Polo, The Travels of Marco Polo (Il Milione)"},
+        {"id": 5, "title": "First handgun developed in China", "description": "Earliest known firearm, the Heilongjiang hand cannon.", "year": "~1288", "source": "Chinese military archaeology; Joseph Needham"}
+      ]
+    },
+    {
+      "period": "1301-1400 AD",
+      "events": [
+        {"id": 1, "title": "The Black Death", "description": "Bubonic plague kills 75-200 million, 30-60% of Europe's population. Most devastating pandemic in recorded history.", "year": "1347-1353", "source": "Giovanni Boccaccio, The Decameron; Ibn Khaldun, Muqaddimah"},
+        {"id": 2, "title": "Hundred Years' War begins", "description": "England and France wage prolonged conflict. Joan of Arc leads French forces. Shapes both nations.", "year": "1337-1453", "source": "Jean Froissart, Chroniques"},
+        {"id": 3, "title": "Ottoman Empire founded", "description": "Osman I establishes the Ottoman Beylik. Will become one of history's greatest empires.", "year": "~1299", "source": "Ottoman court chronicles"},
+        {"id": 4, "title": "Ming Dynasty founded in China", "description": "Zhu Yuanzhang drives out the Mongols. Ming era sees construction of the Forbidden City.", "year": "1368", "source": "History of Ming (Mingshi)"},
+        {"id": 5, "title": "Renaissance begins in Italy", "description": "Cultural rebirth in Florence and other city-states. Rediscovery of classical learning transforms art and science.", "year": "~1350", "source": "Giorgio Vasari, Lives of the Most Excellent Painters, Sculptors, and Architects"}
+      ]
+    },
+    {
+      "period": "1401-1500 AD",
+      "events": [
+        {"id": 1, "title": "Fall of Constantinople", "description": "Ottoman Sultan Mehmed II conquers Constantinople. End of the Byzantine Empire after 1,100 years.", "year": "1453", "source": "Laonikos Chalkokondyles, Histories; Kritovoulos, History of Mehmed the Conqueror"},
+        {"id": 2, "title": "Gutenberg's printing press", "description": "Johannes Gutenberg invents movable type printing in Europe. Revolutionizes knowledge dissemination.", "year": "~1440", "source": "Johannes Trithemius, De Laude Scriptorum"},
+        {"id": 3, "title": "Columbus reaches the Americas", "description": "Christopher Columbus lands in the Bahamas. Begins the Age of Exploration and European colonization.", "year": "1492", "source": "Christopher Columbus, Journal of the First Voyage"},
+        {"id": 4, "title": "Vasco da Gama reaches India", "description": "First European to reach India by sea. Opens direct trade route between Europe and Asia.", "year": "1498", "source": "Vasco da Gama's voyage logs"},
+        {"id": 5, "title": "Leonardo da Vinci paints the Last Supper", "description": "Epitome of Renaissance genius. Da Vinci also designs flying machines, tanks, and anatomical studies.", "year": "~1495-1498", "source": "Giorgio Vasari, Lives of the Artists"}
+      ]
+    },
+    {
+      "period": "1501-1600 AD",
+      "events": [
+        {"id": 1, "title": "Protestant Reformation", "description": "Martin Luther posts 95 Theses (1517). Splits Western Christianity, triggering wars and reshaping Europe.", "year": "1517", "source": "Martin Luther, 95 Theses; Philip Schaff, History of the Christian Church"},
+        {"id": 2, "title": "Spanish conquest of the Aztec and Inca Empires", "description": "Cortés conquers the Aztecs (1521). Pizarro conquers the Incas (1533). Millions of indigenous people die from disease and war.", "year": "1519-1533", "source": "Bernal Díaz del Castillo, True History of the Conquest of New Spain"},
+        {"id": 3, "title": "Copernicus proposes heliocentric model", "description": "On the Revolutions of the Celestial Spheres (1543). Revolutionizes astronomy and scientific thought.", "year": "1543", "source": "Nicolaus Copernicus, De Revolutionibus Orbium Coelestium"},
+        {"id": 4, "title": "Ottoman Empire reaches peak under Suleiman the Magnificent", "description": "Ottoman Empire at its height, dominating the Mediterranean, Middle East, and Southeast Europe.", "year": "1520-1566", "source": "Ottoman court archives"},
+        {"id": 5, "title": "Shakespeare writes his plays", "description": "William Shakespeare produces the greatest body of literature in the English language.", "year": "~1590-1613", "source": "First Folio (1623); Shakespearean scholarship"}
+      ]
+    },
+    {
+      "period": "1601-1700 AD",
+      "events": [
+        {"id": 1, "title": "Galileo's astronomical discoveries", "description": "Telescope observations confirm Copernican model. Catholic Church forces him to recant.", "year": "1609-1633", "source": "Galileo Galilei, Sidereus Nuncius; Dialogue Concerning the Two Chief World Systems"},
+        {"id": 2, "title": "Thirty Years' War", "description": "Devastating religious conflict in Europe. Peace of Westphalia (1648) establishes modern state system.", "year": "1618-1648", "source": "Peace of Westphalia treaties; C.V. Wedgwood, The Thirty Years War"},
+        {"id": 3, "title": "Newton publishes Principia Mathematica", "description": "Isaac Newton's laws of motion and universal gravitation. Foundation of classical physics.", "year": "1687", "source": "Isaac Newton, Philosophiae Naturalis Principia Mathematica"},
+        {"id": 4, "title": "Qing Dynasty begins in China", "description": "Manchus overthrow the Ming Dynasty. Qing will be China's last imperial dynasty.", "year": "1644", "source": "Draft History of Qing (Qingshigao)"},
+        {"id": 5, "title": "Dutch East India Company founded", "description": "First multinational corporation and the first to issue stock. Dominates global spice trade.", "year": "1602", "source": "VOC archives, Dutch National Archives"}
+      ]
+    },
+    {
+      "period": "1701-1800 AD",
+      "events": [
+        {"id": 1, "title": "Industrial Revolution begins", "description": "Steam engine, mechanized factories transform Britain then the world. Shift from agrarian to industrial society.", "year": "~1760", "source": "Arnold Toynbee, Lectures on the Industrial Revolution; E.P. Thompson, The Making of the English Working Class"},
+        {"id": 2, "title": "American Revolution and Independence", "description": "13 colonies declare independence (1776). Creates the first modern democratic republic.", "year": "1775-1783", "source": "Declaration of Independence; Thomas Paine, Common Sense"},
+        {"id": 3, "title": "French Revolution", "description": "Overthrow of the monarchy. Declaration of the Rights of Man. Reign of Terror. Napoleon rises.", "year": "1789-1799", "source": "Declaration of the Rights of Man and of the Citizen; Thomas Carlyle, The French Revolution"},
+        {"id": 4, "title": "Adam Smith publishes The Wealth of Nations", "description": "Foundation of modern economics. Introduces concepts of free markets and division of labor.", "year": "1776", "source": "Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations"},
+        {"id": 5, "title": "James Watt improves the steam engine", "description": "Watt's efficient steam engine (1769) powers the Industrial Revolution.", "year": "1769", "source": "James Watt patent records; Samuel Smiles, Lives of the Engineers"}
+      ]
+    },
+    {
+      "period": "1801-1900 AD",
+      "events": [
+        {"id": 1, "title": "Napoleonic Wars", "description": "Napoleon conquers much of Europe. Defeated at Waterloo (1815). Reshapes European borders and nationalism.", "year": "1803-1815", "source": "David Chandler, The Campaigns of Napoleon"},
+        {"id": 2, "title": "Darwin publishes On the Origin of Species", "description": "Theory of evolution by natural selection. Revolutionizes biology and challenges religious doctrine.", "year": "1859", "source": "Charles Darwin, On the Origin of Species"},
+        {"id": 3, "title": "American Civil War", "description": "Union defeats Confederacy. Slavery abolished. 600,000+ dead. Deadliest American conflict.", "year": "1861-1865", "source": "Shelby Foote, The Civil War; Emancipation Proclamation"},
+        {"id": 4, "title": "Meiji Restoration in Japan", "description": "Japan modernizes and industrializes rapidly, transforming from feudal state to world power.", "year": "1868", "source": "Meiji Constitution; Marius Jansen, The Making of Modern Japan"},
+        {"id": 5, "title": "Scramble for Africa", "description": "European powers colonize nearly the entire African continent. Devastating consequences that last to this day.", "year": "1881-1914", "source": "Thomas Pakenham, The Scramble for Africa"}
+      ]
+    },
+    {
+      "period": "1901-2000 AD",
+      "events": [
+        {"id": 1, "title": "World War I", "description": "20 million dead. Destroys four empires (Ottoman, Austro-Hungarian, Russian, German). Reshapes the world map.", "year": "1914-1918", "source": "Barbara Tuchman, The Guns of August; Erich Maria Remarque, All Quiet on the Western Front"},
+        {"id": 2, "title": "World War II", "description": "70-85 million dead. Holocaust kills 6 million Jews. Atomic bombs on Hiroshima and Nagasaki. Deadliest conflict in history.", "year": "1939-1945", "source": "Antony Beevor, The Second World War; Winston Churchill, The Second World War"},
+        {"id": 3, "title": "Moon landing", "description": "Apollo 11. Neil Armstrong becomes first human to walk on the Moon.", "year": "1969", "source": "NASA Apollo 11 archives"},
+        {"id": 4, "title": "Fall of the Berlin Wall", "description": "Cold War ends. Soviet Union dissolves (1991). Communism collapses across Eastern Europe.", "year": "1989", "source": "Various contemporary news reports"},
+        {"id": 5, "title": "Invention of the Internet", "description": "ARPANET (1969) to World Wide Web (1991, Tim Berners-Lee). Transforms communication, commerce, and society.", "year": "1969-1991", "source": "Tim Berners-Lee, Weaving the Web; Vinton Cerf and Bob Kahn, TCP/IP papers"}
+      ]
+    },
+    {
+      "period": "2001-2026 AD",
+      "events": [
+        {"id": 1, "title": "September 11 attacks", "description": "Terrorist attacks on the World Trade Center and Pentagon kill nearly 3,000. Launches the War on Terror.", "year": "2001", "source": "9/11 Commission Report (2004)"},
+        {"id": 2, "title": "iPhone released", "description": "Apple's iPhone launches the smartphone era. By 2026, smartphones are used by 5+ billion people.", "year": "2007", "source": "Walter Isaacson, Steve Jobs"},
+        {"id": 3, "title": "COVID-19 pandemic", "description": "SARS-CoV-2 kills an estimated 20+ million worldwide. Lockdowns, remote work, mRNA vaccines.", "year": "2019-2023", "source": "WHO pandemic reports; Johns Hopkins COVID dashboard"},
+        {"id": 4, "title": "Rise of AI and large language models", "description": "ChatGPT launches (Nov 2022), followed by GPT-4, Claude, Gemini. AI transforms work, education, creative industries.", "year": "2022-2026", "source": "OpenAI, Anthropic, Google publications"},
+        {"id": 5, "title": "Russia invades Ukraine", "description": "Largest military conflict in Europe since WWII. Reshapes global alliances, energy markets, and geopolitics.", "year": "2022", "source": "Various international news agencies; UN resolutions"},
+        {"id": 6, "title": "Israel-Palestine conflict escalates — Gaza genocide", "description": "Following October 7, 2023 Hamas attack, Israel launches massive military campaign in Gaza. Tens of thousands of Palestinian civilians killed. ICJ investigates.", "year": "2023-2026", "source": "UN Human Rights Council reports; ICJ provisional measures order (2024); Amnesty International; Human Rights Watch"},
+        {"id": 7, "title": "Israel strikes Iran", "description": "Israel launches direct military strikes against Iranian targets, escalating regional conflict across the Middle East.", "year": "2024-2026", "source": "Various international news agencies; Reuters; AP"}
+      ]
     }
   ]
 }
