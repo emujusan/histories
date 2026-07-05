@@ -1,0 +1,486 @@
+{
+  "title": "The Prophets: From Adam (AS) to Muhammad (SAW)",
+  "description": "A chronological account of the 25 prophets mentioned in the Quran, with sources from the Quran and authentic Hadith only",
+  "preamble": {
+    "quran_reference": "Quran 4:163-164 — Allah mentions the prophets He sent, some named and others not named",
+    "hadith_brotherhood": "Sahih al-Bukhari 3443, Sahih Muslim 2365 — The prophets are like brothers from one father, their mothers are different, but their religion is one",
+    "hadith_count": "Musnad Ahmad (Sahih by Al-Albani) — 124,000 prophets, among whom 315 were messengers (rasul)",
+    "total_named_in_quran": 25
+  },
+  "prophets": [
+    {
+      "id": 1,
+      "name_ar": "آدم",
+      "name_en": "Adam",
+      "title": "Safiullah (Chosen by Allah)",
+      "period": "The First Human",
+      "description": "The first human and first prophet. Created from clay, taught the names of all things. Commanded angels to prostrate to him; Iblis refused. Fell from Jannah after eating from the forbidden tree, repented, and was sent to Earth.",
+      "key_events": [
+        "Created from sounding clay — Quran 55:14",
+        "Taught the names of all things — Quran 2:31-33",
+        "Angels commanded to prostrate; Iblis refused — Quran 2:34, 7:11-12, 15:28-31",
+        "The Fall from Jannah — Quran 2:35-36, 7:19-22, 20:120-121",
+        "Repentance accepted — Quran 2:37",
+        "Descent to Earth — Quran 2:38, 7:24, 20:123"
+      ],
+      "quran_references": ["2:30-39", "3:33", "7:11-27", "15:26-44", "17:61-65", "18:50", "20:115-124", "38:71-85"],
+      "hadith_references": ["Sahih al-Bukhari 3326 (creation from clay)", "Sahih al-Bukhari 3331 (height of 60 cubits)"]
+    },
+    {
+      "id": 2,
+      "name_ar": "إدريس",
+      "name_en": "Idris",
+      "title": null,
+      "period": "Between Adam and Nuh",
+      "description": "The first to write with a pen. Described as a truthful prophet raised to a high station. The Prophet (SAW) passed by him during the Night Journey.",
+      "key_events": [
+        "First to write with a pen — Musnad Ahmad (Sahih by Al-Albani)",
+        "Raised to a high station — Quran 19:57",
+        "Met by Prophet Muhammad during Isra and Mi'raj — Sahih al-Bukhari 3207"
+      ],
+      "quran_references": ["19:56-57", "21:85"],
+      "hadith_references": ["Sahih al-Bukhari 3207", "Musnad Ahmad (first to write)"]
+    },
+    {
+      "id": 3,
+      "name_ar": "نوح",
+      "name_en": "Nuh",
+      "name_latin": "Noah",
+      "title": "Najiyullah (Saved by Allah)",
+      "period": "Antediluvian",
+      "description": "The first great messenger. Preached for 950 years with few followers. Built the Ark by Allah's command. The great flood destroyed the disbelievers. Among the Ulul 'Azm (Prophets of Determination).",
+      "key_events": [
+        "Called his people for 950 years — Quran 29:14",
+        "Rejected and mocked by his people — Quran 7:60, 11:27, 26:116",
+        "Commanded to build the Ark — Quran 11:37, 23:27",
+        "The Great Flood — Quran 7:64, 11:40-43, 54:11-15",
+        "Son and wife among the disbelievers — Quran 11:40, 66:10, 71:26-27",
+        "Greeted Prophet Muhammad during Isra and Mi'raj — Sahih al-Bukhari 3207"
+      ],
+      "quran_references": ["7:59-64", "10:71-73", "11:25-49", "21:76-77", "23:23-30", "26:105-122", "29:14-15", "37:75-82", "54:9-16", "57:26", "66:10", "71:1-28"],
+      "hadith_references": ["Sahih al-Bukhari 3207", "Sahih al-Bukhari 3340", "Sahih al-Bukhari 4400"],
+      "ulul_azm": true
+    },
+    {
+      "id": 4,
+      "name_ar": "هود",
+      "name_en": "Hud",
+      "title": null,
+      "period": "Post-'Ad (Ancient Southern Arabia)",
+      "description": "Sent to the People of 'Ad, a mighty and physically powerful nation. They rejected him and were destroyed by a devastating wind.",
+      "key_events": [
+        "Called 'Ad to worship Allah alone — Quran 7:65, 11:50",
+        "'Ad were a powerful, tall nation — Quran 7:69, 89:6-8",
+        "Rejected and accused of madness — Quran 7:66, 11:53",
+        "Destroyed by a furious wind — Quran 41:16, 46:24-25, 51:41, 69:6-7",
+        "Hud and believers saved — Quran 7:72, 11:58"
+      ],
+      "quran_references": ["7:65-72", "11:50-60", "26:123-140", "41:13-16", "46:21-26", "51:41-42", "53:50", "54:18-22", "69:4-8", "89:6-8"],
+      "hadith_references": []
+    },
+    {
+      "id": 5,
+      "name_ar": "صالح",
+      "name_en": "Salih",
+      "title": null,
+      "period": "Post-'Ad (Northwestern Arabia)",
+      "description": "Sent to the People of Thamud, successors of 'Ad. His people demanded a miracle; Allah sent a she-camel. They slaughtered it and were destroyed.",
+      "key_events": [
+        "Called Thamud to worship Allah — Quran 7:73",
+        "The She-Camel as a sign — Quran 7:73, 11:64, 26:155, 54:27",
+        "Nine wicked men plotted against Salih and the camel — Quran 27:48",
+        "Slaughtered the she-camel — Quran 7:77, 11:65",
+        "Destroyed by a blast and earthquake — Quran 7:78, 11:67, 15:83, 54:31, 69:5"
+      ],
+      "quran_references": ["7:73-79", "11:61-68", "15:80-84", "26:141-159", "27:45-53", "41:13-18", "51:43-45", "54:23-31", "69:4-5", "91:11-15"],
+      "hadith_references": []
+    },
+    {
+      "id": 6,
+      "name_ar": "إبراهيم",
+      "name_en": "Ibrahim",
+      "name_latin": "Abraham",
+      "title": "Khalilullah (Close Friend of Allah)",
+      "period": "~2000 BCE (Mesopotamia / Canaan / Makkah)",
+      "description": "The patriarch of monotheism and forefather of many prophets. Reasoned his way to truth, broke idols, was thrown into fire but saved. Built the Ka'bah with Ismail. Among the Ulul 'Azm.",
+      "key_events": [
+        "Reasoned to monotheism through observation — Quran 6:74-79",
+        "Broke the idols of his people — Quran 21:57-58, 37:91-95",
+        "Thrown into fire; Allah made it cool and safe — Quran 21:68-69, 37:97-98",
+        "Debate with the tyrant king (Nimrod) — Quran 2:258",
+        "Commanded to sacrifice his son; both submitted; ransomed — Quran 37:102-107",
+        "Built the Ka'bah with Ismail — Quran 2:125-127",
+        "Prayed for Makkah and for a messenger from among them — Quran 2:126-129",
+        "Called Khalilullah (Close Friend of Allah) — Quran 4:125"
+      ],
+      "quran_references": ["2:124-133", "3:33-34", "4:125", "6:74-83", "9:114", "11:69-76", "14:35-41", "15:51-60", "16:120", "19:41-49", "21:51-71", "22:26", "26:69-82", "29:16-27", "37:83-113", "42:13", "43:26-28", "51:24-30", "53:37", "57:26", "60:4"],
+      "hadith_references": ["Sahih al-Bukhari 3350", "Sahih al-Bukhari 3357", "Sahih al-Bukhari 3364", "Sahih al-Bukhari 3365", "Sahih al-Bukhari 3366", "Sahih Muslim 2370"],
+      "ulul_azm": true
+    },
+    {
+      "id": 7,
+      "name_ar": "لوط",
+      "name_en": "Lut",
+      "name_latin": "Lot",
+      "title": null,
+      "period": "Contemporary of Ibrahim (Sodom)",
+      "description": "Ibrahim's nephew, sent to the people of Sodom. They were the first to practice homosexuality openly. Angels visited Lut; the people attacked; Allah destroyed the cities with stones of baked clay.",
+      "key_events": [
+        "People of Lut engaged in unprecedented immorality — Quran 7:80-81, 27:54-55, 29:28-29",
+        "Angels visited in human form — Quran 11:77, 15:61",
+        "People demanded the guests; Lut tried to protect them — Quran 11:78-79, 15:67-70",
+        "Cities overturned; stones of baked clay rained — Quran 7:84, 11:82-83, 15:73-74",
+        "Lut's wife among the destroyed — Quran 66:10, 15:60"
+      ],
+      "quran_references": ["7:80-84", "11:70-83", "15:57-77", "21:74-75", "26:160-175", "27:54-58", "29:26-35", "37:133-138", "51:31-37", "54:33-40", "66:10"],
+      "hadith_references": ["Sahih al-Bukhari 4245", "Sahih al-Bukhari 6992", "Sahih Muslim 2889"]
+    },
+    {
+      "id": 8,
+      "name_ar": "إسماعيل",
+      "name_en": "Ismail",
+      "name_latin": "Ishmael",
+      "title": "Sadiq al-Wa'd (True to His Promise)",
+      "period": "Contemporary of Ibrahim (Makkah)",
+      "description": "First-born son of Ibrahim, forefather of the Arabs and the Prophet Muhammad (SAW). Left with Hajar in Makkah. The son Ibrahim was commanded to sacrifice. Co-builder of the Ka'bah.",
+      "key_events": [
+        "Ibrahim left Hajar and Ismail in barren Makkah — Quran 14:37; Sahih al-Bukhari 3364",
+        "Spring of Zamzam gushed forth — Sahih al-Bukhari 3364, 3365",
+        "The son in the sacrifice narrative — Quran 37:102-107",
+        "Built the Ka'bah with Ibrahim — Quran 2:125-127",
+        "Described as true to his promise, a messenger and prophet — Quran 19:54-55"
+      ],
+      "quran_references": ["2:125-129", "2:133", "2:136", "3:84", "4:163", "6:86", "14:39", "19:54-55", "21:85", "37:101-107", "38:48"],
+      "hadith_references": ["Sahih al-Bukhari 3364", "Sahih al-Bukhari 3365", "Sahih al-Bukhari 3366"]
+    },
+    {
+      "id": 9,
+      "name_ar": "إسحاق",
+      "name_en": "Ishaq",
+      "name_latin": "Isaac",
+      "title": null,
+      "period": "Contemporary of Ibrahim (Canaan)",
+      "description": "Second son of Ibrahim, born miraculously to Ibrahim and Sarah in their old age. Father of Yaqub and forefather of Bani Isra'il.",
+      "key_events": [
+        "Angels gave glad tidings of his birth to Ibrahim and Sarah — Quran 11:69-71, 15:51-55",
+        "Born miraculously in old age — Quran 14:39, 37:112-113",
+        "Blessings upon him and his progeny — Quran 37:113"
+      ],
+      "quran_references": ["2:133", "2:136", "3:84", "4:163", "6:84", "11:71", "12:6", "14:39", "19:49", "21:72", "29:27", "37:112-113", "38:45"],
+      "hadith_references": ["Sahih al-Bukhari 3344"]
+    },
+    {
+      "id": 10,
+      "name_ar": "يعقوب",
+      "name_en": "Yaqub",
+      "name_latin": "Jacob",
+      "title": "Isra'il",
+      "period": "Canaan / Egypt",
+      "description": "Father of the twelve tribes of Bani Isra'il. Exemplified beautiful patience (sabr jamil) during the loss of Yusuf. Reunited with Yusuf in Egypt.",
+      "key_events": [
+        "Lost Yusuf and grieved until his eyes turned white — Quran 12:84",
+        "Exemplar of beautiful patience (sabr jamil) — Quran 12:18, 12:83",
+        "Reunited with Yusuf in Egypt — Quran 12:96-99",
+        "Instructed his sons to worship Allah alone on his deathbed — Quran 2:133"
+      ],
+      "quran_references": ["2:133", "2:136", "3:84", "4:163", "6:84", "12:4-18", "12:68-99", "19:49", "21:72", "29:27", "38:45"],
+      "hadith_references": ["Sahih al-Bukhari 3380", "Sahih al-Bukhari 3389", "Sahih al-Bukhari 3430"]
+    },
+    {
+      "id": 11,
+      "name_ar": "يوسف",
+      "name_en": "Yusuf",
+      "name_latin": "Joseph",
+      "title": null,
+      "period": "Canaan / Egypt",
+      "description": "His story is told in full in Surah Yusuf (Chapter 12), the most detailed single prophet narrative in the Quran. Tested with betrayal, slavery, seduction, and prison before being elevated to power in Egypt.",
+      "key_events": [
+        "Dream of eleven stars, sun, and moon prostrating — Quran 12:4",
+        "Brothers threw him into a well — Quran 12:7-10",
+        "Sold into slavery in Egypt — Quran 12:19-20",
+        "Trial of seduction by the Aziz's wife; chose prison — Quran 12:23-33",
+        "Interpreted dreams in prison — Quran 12:36-41",
+        "Interpreted the king's dream; rose to minister — Quran 12:43-55",
+        "Revealed himself to his brothers; brought family to Egypt — Quran 12:58-99",
+        "Childhood dream fulfilled — Quran 12:100"
+      ],
+      "quran_references": ["6:84", "12:1-111", "40:34"],
+      "hadith_references": ["Sahih al-Bukhari 3377", "Sahih al-Bukhari 3380", "Sahih al-Bukhari 3389", "Sahih al-Bukhari 3430"]
+    },
+    {
+      "id": 12,
+      "name_ar": "شعيب",
+      "name_en": "Shu'ayb",
+      "name_latin": "Jethro",
+      "title": null,
+      "period": "Madyan (Northwestern Arabia / Sinai)",
+      "description": "Sent to the People of Madyan, corrupt merchants who cheated in trade and committed fraud. He called them to justice and monotheism. They rejected him and were destroyed.",
+      "key_events": [
+        "Called his people to worship Allah and give full measure — Quran 7:85, 11:84-85, 26:181-183",
+        "Mocked and threatened with expulsion — Quran 7:88, 11:91",
+        "Destroyed by a terrible cry (sayhah) — Quran 7:91-92, 11:94-95, 26:189, 29:36-37"
+      ],
+      "quran_references": ["7:85-93", "9:70", "11:84-95", "22:44", "26:176-191", "29:36-37", "38:13", "50:14"],
+      "hadith_references": []
+    },
+    {
+      "id": 13,
+      "name_ar": "أيوب",
+      "name_en": "Ayyub",
+      "name_latin": "Job",
+      "title": "Sabir (The Patient)",
+      "period": "Land of Ash-Sham (greater Syria) or southern Arabia",
+      "description": "A wealthy, righteous man tested with the loss of wealth, children, and health for many years. Remained patient and was restored by Allah with double his former blessings.",
+      "key_events": [
+        "Afflicted with severe disease and loss of family and wealth — Quran 38:41-44",
+        "Made the famous dua of patience — Quran 21:83",
+        "Allah restored his health with a spring of cool water — Quran 38:42",
+        "Family and wealth restored doubly — Quran 38:43-44, 21:84",
+        "His wife stayed devoted through his illness — Sahih al-Bukhari 3391"
+      ],
+      "quran_references": ["4:163", "6:84", "21:83-84", "38:41-44"],
+      "hadith_references": ["Sahih al-Bukhari 3391"]
+    },
+    {
+      "id": 14,
+      "name_ar": "ذو الكفل",
+      "name_en": "Dhul-Kifl",
+      "title": null,
+      "period": "Bani Isra'il period",
+      "description": "Mentioned briefly in the Quran among the patient and righteous. Some scholars identify him with Ezekiel. Known for patiently fulfilling a pledge.",
+      "key_events": [
+        "Mentioned among the patient — Quran 21:85",
+        "Mentioned among the righteous — Quran 38:48"
+      ],
+      "quran_references": ["21:85", "38:48"],
+      "hadith_references": []
+    },
+    {
+      "id": 15,
+      "name_ar": "موسى",
+      "name_en": "Musa",
+      "name_latin": "Moses",
+      "title": "Kaleemullah (The One Who Spoke to Allah)",
+      "period": "~1400s BCE (Egypt / Sinai)",
+      "description": "The most frequently mentioned prophet in the Quran (130+ verses). Confronted Fir'awn, led Bani Isra'il out of Egypt, parted the sea, received the Tawrat on Mount Sinai. Among the Ulul 'Azm.",
+      "key_events": [
+        "Saved from Pharaoh's slaughter; found by Asiyah — Quran 20:37-40, 28:7-13",
+        "Unintentionally killed an Egyptian; fled to Madyan — Quran 28:14-21",
+        "Helped Shu'ayb's daughters; married one — Quran 28:22-28",
+        "Spoke to Allah from the burning bush — Quran 20:9-16, 27:7-14, 28:29-31",
+        "Given miracles: staff to serpent, hand to white — Quran 7:107-108, 20:17-23",
+        "Confronted Fir'awn with Harun — Quran 7:103-108",
+        "Magicians believed after seeing the signs — Quran 7:113-122, 26:38-51",
+        "Parted the sea; Fir'awn drowned — Quran 2:50, 7:136, 10:90-92, 20:77-78, 26:52-68",
+        "Received the Tawrat on Mount Sinai — Quran 7:143, 7:154",
+        "Golden Calf incident; Samiri led people astray — Quran 2:51, 7:148-154, 20:83-98",
+        "Asked to see Allah; mountain crumbled — Quran 7:143",
+        "Journey with Al-Khidr — Quran 18:60-82; Sahih al-Bukhari 122"
+      ],
+      "quran_references": ["2:49-61", "2:67-71", "4:153-154", "5:20-26", "6:84", "7:103-171", "10:75-93", "11:96-99", "14:5-8", "17:101-104", "18:60-82", "20:9-97", "23:45-49", "25:35", "26:10-68", "27:7-14", "28:2-44", "28:76-82", "29:39", "32:23", "37:114-122", "40:23-46", "43:46-56", "44:30-33", "46:30", "51:38-40", "53:36", "61:5"],
+      "hadith_references": ["Sahih al-Bukhari 122", "Sahih al-Bukhari 2728", "Sahih al-Bukhari 3213", "Sahih al-Bukhari 3217", "Sahih al-Bukhari 3227", "Sahih al-Bukhari 3278", "Sahih al-Bukhari 3329", "Sahih al-Bukhari 3405", "Sahih al-Bukhari 4400", "Sahih al-Bukhari 4680-4720", "Sahih Muslim 2372", "Sahih Muslim 2736"],
+      "ulul_azm": true
+    },
+    {
+      "id": 16,
+      "name_ar": "هارون",
+      "name_en": "Harun",
+      "name_latin": "Aaron",
+      "title": null,
+      "period": "~1400s BCE (Egypt / Sinai)",
+      "description": "Musa's elder brother, partner in prophethood, and spokesman before Fir'awn. Left in charge of Bani Isra'il during Musa's absence; unable to stop the Golden Calf worship.",
+      "key_events": [
+        "Appointed as Musa's helper and spokesman — Quran 19:53, 20:29-36, 25:35, 28:34-35",
+        "Stood with Musa before Fir'awn — Quran 7:103-104, 10:75-76",
+        "Left in charge of Bani Isra'il during Musa's absence — Quran 7:142",
+        "Tried to stop the Golden Calf worship but was overpowered — Quran 7:150, 20:90-94"
+      ],
+      "quran_references": ["2:248", "4:163", "6:84", "7:122", "7:142", "10:75", "19:28", "19:53", "20:30", "20:42", "21:48", "23:45", "25:35", "26:48", "28:34-35", "37:114-120", "38:26"],
+      "hadith_references": ["Sahih al-Bukhari 4482"]
+    },
+    {
+      "id": 17,
+      "name_ar": "داود",
+      "name_en": "Dawud",
+      "name_latin": "David",
+      "title": null,
+      "period": "~1000 BCE (Bani Isra'il / Jerusalem)",
+      "description": "Prophet and king — the first in Bani Isra'il to hold both roles. Given the Zabur (Psalms). Mountains and birds glorified Allah with him. Iron was softened for him. Defeated Jalut (Goliath).",
+      "key_events": [
+        "Defeated Jalut (Goliath) as a youth — Quran 2:249-251",
+        "Given the Zabur (Psalms) — Quran 4:163, 17:55",
+        "Mountains and birds subjected to glorify with him — Quran 21:79, 34:10, 38:18-19",
+        "Iron softened for him to make armor — Quran 21:80, 34:10-11",
+        "Judged the case of the two litigants — Quran 38:21-26",
+        "Sought forgiveness and fell in prostration — Quran 38:24-25",
+        "Fasted alternate days (most beloved fasting to Allah) — Sahih al-Bukhari 1131, Sahih Muslim 1159"
+      ],
+      "quran_references": ["2:251", "4:163", "5:78", "6:84", "17:55", "21:78-80", "27:15-16", "34:10-11", "38:17-26"],
+      "hadith_references": ["Sahih al-Bukhari 1131", "Sahih al-Bukhari 3213", "Sahih Muslim 1159"]
+    },
+    {
+      "id": 18,
+      "name_ar": "سليمان",
+      "name_en": "Sulayman",
+      "name_latin": "Solomon",
+      "title": null,
+      "period": "~950 BCE (Bani Isra'il / Jerusalem)",
+      "description": "Inherited Dawud's kingdom and was given greater power. Commanded wind, jinn, and understood the speech of animals. The Queen of Saba submitted to Allah through his invitation.",
+      "key_events": [
+        "Inherited wisdom and kingdom from Dawud — Quran 27:15-16, 38:30",
+        "Wind subjected to him — Quran 21:81, 34:12, 38:36",
+        "Jinn worked for him — Quran 21:82, 34:12-13, 38:37",
+        "Understood speech of birds and ants — Quran 27:16-19",
+        "Hoopoe brought news of Queen Bilqis — Quran 27:20-28",
+        "Bilqis's throne brought in an instant — Quran 27:38-40",
+        "Queen of Saba submitted to Allah — Quran 27:44",
+        "Died leaning on his staff; jinn didn't know — Quran 34:14"
+      ],
+      "quran_references": ["2:102", "4:163", "6:84", "21:78-82", "27:15-44", "34:12-14", "38:30-40"],
+      "hadith_references": ["Sahih al-Bukhari 3213", "Sahih al-Bukhari 3424", "Sahih al-Bukhari 4682", "Sahih Muslim 1774"]
+    },
+    {
+      "id": 19,
+      "name_ar": "إلياس",
+      "name_en": "Ilyas",
+      "name_latin": "Elijah",
+      "title": null,
+      "period": "Bani Isra'il period (~900 BCE)",
+      "description": "Sent to the people of Bani Isra'il who had turned to worship the idol Baal. He called them back to monotheism. They denied him and faced punishment.",
+      "key_events": [
+        "Called his people to abandon Baal and worship Allah — Quran 37:123-126",
+        "His people denied him — Quran 37:127",
+        "Only the sincere servants of Allah were saved — Quran 37:128"
+      ],
+      "quran_references": ["6:85", "37:123-132"],
+      "hadith_references": []
+    },
+    {
+      "id": 20,
+      "name_ar": "اليسع",
+      "name_en": "Alyasa'",
+      "name_latin": "Elisha",
+      "title": null,
+      "period": "Bani Isra'il period (~800 BCE)",
+      "description": "Mentioned alongside the greatest prophets. Most scholars identify him as a disciple and successor of Ilyas. His detailed story is not told in the Quran.",
+      "key_events": [
+        "Mentioned among the chosen, the righteous — Quran 6:86, 38:48"
+      ],
+      "quran_references": ["6:86", "38:48"],
+      "hadith_references": []
+    },
+    {
+      "id": 21,
+      "name_ar": "يونس",
+      "name_en": "Yunus",
+      "name_latin": "Jonah",
+      "title": "Dhun-Nun (The Man of the Whale)",
+      "period": "Bani Isra'il period (Nineveh / Assyria)",
+      "description": "Left his people in anger without Allah's permission. Swallowed by a whale, he made the famous dua of repentance in its belly. His people believed — uniquely among the nations — and were spared.",
+      "key_events": [
+        "Left his people without permission — Quran 21:87, 37:139-140, 68:48",
+        "Cast into the sea; swallowed by a whale — Quran 37:139-142, 68:48-49",
+        "Made the famous dua: La ilaha illa Anta, Subhanaka inni kuntu minaz-zalimin — Quran 21:87",
+        "Allah rescued him from distress — Quran 21:88, 37:143-144",
+        "Gourd plant provided shade — Quran 37:146",
+        "His people believed and were spared — Quran 10:98, 37:148",
+        "Prophet (SAW) said: Do not prefer me over Yunus — Sahih al-Bukhari 3412, Sahih Muslim 4375"
+      ],
+      "quran_references": ["4:163", "6:86", "10:98", "21:87-88", "37:139-148", "68:48-50"],
+      "hadith_references": ["Sahih al-Bukhari 3412", "Sahih al-Bukhari 3413", "Sahih Muslim 4375"]
+    },
+    {
+      "id": 22,
+      "name_ar": "زكريا",
+      "name_en": "Zakariyya",
+      "name_latin": "Zechariah",
+      "title": null,
+      "period": "~1st century BCE (Jerusalem)",
+      "description": "A prophet from Bani Isra'il and the guardian of Maryam. Prayed for a child in old age and was given Yahya. Given a sign of three nights of silence.",
+      "key_events": [
+        "Prayed for a righteous child despite old age — Quran 3:38, 19:2-6, 21:89",
+        "Angels gave glad tidings of Yahya — Quran 3:39, 19:7, 21:90",
+        "Given a sign: three nights of silence — Quran 3:41, 19:10",
+        "Guardian of Maryam — Quran 3:37, 3:44"
+      ],
+      "quran_references": ["3:37-41", "6:85", "19:2-15", "21:89-90"],
+      "hadith_references": []
+    },
+    {
+      "id": 23,
+      "name_ar": "يحيى",
+      "name_en": "Yahya",
+      "name_latin": "John the Baptist",
+      "title": null,
+      "period": "~1st century BCE / 1st century CE (Jerusalem)",
+      "description": "Son of Zakariyya, given wisdom in childhood. Given a unique name not used before. Described as pure, righteous, and dutiful to his parents.",
+      "key_events": [
+        "Given the unique name Yahya — Quran 19:7",
+        "Given wisdom while still a child — Quran 19:12",
+        "Described as pure (zakiyyan) and tender (hananan) — Quran 19:13-14",
+        "Righteous and dutiful to parents — Quran 19:14",
+        "Peace upon him — Quran 19:15"
+      ],
+      "quran_references": ["3:39", "6:85", "19:7-15", "21:90"],
+      "hadith_references": []
+    },
+    {
+      "id": 24,
+      "name_ar": "عيسى",
+      "name_en": "Isa",
+      "name_latin": "Jesus",
+      "title": "Ruhullah / Kalimatullah (Spirit/Word of Allah)",
+      "period": "~4 BCE – ~30 CE (Jerusalem / Nazareth)",
+      "description": "Born miraculously without a father to Maryam. Given remarkable miracles by Allah — healing the sick, raising the dead, fashioning a living bird from clay. Neither killed nor crucified (it was made to appear so). Raised to Allah. Will return before the Day of Judgment. Among the Ulul 'Azm.",
+      "key_events": [
+        "Miraculous birth — no father — Quran 3:45-47, 19:16-21, 21:91, 66:12",
+        "Spoke from the cradle as an infant — Quran 19:29-33",
+        "Miracles: bird from clay, healing blind/leper, raising dead — Quran 3:49, 5:110",
+        "Table of food sent from heaven — Quran 5:112-115",
+        "Given the Injil (Gospel) — Quran 5:46, 57:27",
+        "Had devoted disciples (Hawariyyun) — Quran 3:52-53, 5:111, 61:14",
+        "NOT killed or crucified — it was made to appear so — Quran 4:157-158",
+        "Raised to Allah — Quran 3:55, 4:158",
+        "Will return to fight Dajjal before the Day of Judgment — Sahih al-Bukhari 3448, 2222; Sahih Muslim 155, 2937"
+      ],
+      "quran_references": ["2:87", "2:136", "2:253", "3:45-59", "3:84", "4:157-159", "4:171-172", "5:46-47", "5:72-78", "5:110-115", "5:116-118", "6:85", "19:16-40", "21:91", "23:50", "33:7", "42:13", "43:57-65", "57:27", "61:6", "61:14"],
+      "hadith_references": ["Sahih al-Bukhari 2222", "Sahih al-Bukhari 3448", "Sahih al-Bukhari 4496", "Sahih Muslim 155", "Sahih Muslim 243", "Sahih Muslim 2937"],
+      "ulul_azm": true
+    },
+    {
+      "id": 25,
+      "name_ar": "محمد",
+      "name_en": "Muhammad",
+      "title": "Khatam an-Nabiyyin (Seal of the Prophets)",
+      "period": "570–632 CE (Makkah / Madinah)",
+      "description": "The final prophet and messenger, sent as a mercy to all the worlds. Received the Quran over 23 years. Endured persecution in Makkah, established the Islamic state in Madinah, conquered Makkah, and delivered the Farewell Sermon. Among the Ulul 'Azm.",
+      "key_events": [
+        "Born in Makkah, Year of the Elephant (~570 CE); orphaned young",
+        "Known as Al-Amin (the trustworthy); resolved Black Stone dispute",
+        "Married Khadijah — first believer — Sahih al-Bukhari 3878",
+        "First revelation in Cave Hira (610 CE) — Quran 96:1-5; Sahih al-Bukhari 3, 4953",
+        "Persecution of early Muslims in Makkah — Sahih al-Bukhari 3853, 3904",
+        "Night Journey and Ascension (Isra and Mi'raj) — Quran 17:1, 53:1-18; Sahih al-Bukhari 3207",
+        "Hijrah to Madinah (622 CE) — start of Islamic calendar — Quran 9:40; Sahih al-Bukhari 3900",
+        "Battle of Badr (624 CE) — Quran 3:123, 8:1-19",
+        "Battle of Uhud (625 CE) — Quran 3:121-175",
+        "Battle of the Trench/Ahzab (627 CE) — Quran 33:9-27",
+        "Treaty of Hudaybiyyah (628 CE) — Quran 48:1-27; Sahih al-Bukhari 2731",
+        "Conquest of Makkah (630 CE) — Sahih al-Bukhari 4280",
+        "Farewell Pilgrimage and Sermon (632 CE) — Quran 5:3; Sahih Muslim 1218",
+        "Passed away in Madinah, 12 Rabi' al-Awwal 11 AH (632 CE) — Sahih al-Bukhari 4444",
+        "Seal of the Prophets — Quran 33:40",
+        "Mercy to the worlds — Quran 21:107"
+      ],
+      "quran_references": ["2:119", "2:151", "3:31", "3:144", "3:164", "4:79-80", "5:15-16", "5:19", "6:50", "7:157-158", "7:188", "9:40", "9:117", "10:2", "14:1", "17:1", "17:105", "18:110", "21:107", "25:1", "25:56", "26:194", "28:46", "33:21", "33:40", "33:45-46", "34:28", "36:2-4", "41:2-6", "42:7", "48:1-5", "48:8-10", "48:29", "49:2-3", "53:1-18", "62:2", "65:10-11", "68:4", "73:1-5", "80:1-10", "93:1-11", "94:1-8", "96:1-5", "108:1-3", "110:1-3", "111:1-5"],
+      "hadith_references": ["Sahih al-Bukhari (numerous)", "Sahih Muslim (numerous)"],
+      "ulul_azm": true
+    }
+  ],
+  "ulul_azm": {
+    "title": "Ulul 'Azm — The Five Prophets of Determination",
+    "quran_reference": "Quran 42:13",
+    "description": "These five prophets are distinguished by extraordinary perseverance and are mentioned together in the Quran as those to whom Allah ordained the same religion",
+    "prophets": ["Nuh (AS)", "Ibrahim (AS)", "Musa (AS)", "Isa (AS)", "Muhammad (SAW)"]
+  }
+}
